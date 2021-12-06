@@ -1,2 +1,2 @@
 # Invertwordsentence
-Inverser le sens des mots dans une phrase 
+Inverser l'ordre des mots dans une phrase
